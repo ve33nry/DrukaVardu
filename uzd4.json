@@ -1,0 +1,58 @@
+[
+  {
+    "modelis": "iPhone 15 Pro",
+    "razotajs": "Apple",
+    "LMT": 1199.00,
+    "Tet": 1215.00,
+    "Euronics": 1249.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "Galaxy S24 Ultra",
+    "razotajs": "Samsung",
+    "LMT": 1419.00,
+    "Tet": 1430.00,
+    "Euronics": 1459.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "Pixel 8 Pro",
+    "razotajs": "Google",
+    "LMT": 1050.00,
+    "Tet": 1075.00,
+    "Euronics": 1099.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "Xiaomi 14 Ultra",
+    "razotajs": "Xiaomi",
+    "LMT": 1449.00,
+    "Tet": 1460.00,
+    "Euronics": 1499.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "Xperia 1 V",
+    "razotajs": "Sony",
+    "LMT": 1250.00,
+    "Tet": 1270.00,
+    "Euronics": 1299.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "OnePlus 12",
+    "razotajs": "OnePlus",
+    "LMT": 929.00,
+    "Tet": 945.00,
+    "Euronics": 969.00,
+    "valuta": "EUR"
+  },
+  {
+    "modelis": "Nokia G42",
+    "razotajs": "HMD Global",
+    "LMT": 229.00,
+    "Tet": 235.00,
+    "Euronics": 249.00,
+    "valuta": "EUR"
+  }
+]
